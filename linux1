@@ -1,0 +1,31 @@
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ pwd
+/home/julien
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ cd
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ cd Images
+julien@julien-Lenovo-ideapad-530S-15IKB:~/Images$ cd
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ cd/opt
+bash: cd/opt: Aucun fichier ou dossier de ce type
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ cd../home/wilder
+bash: cd../home/wilder: Aucun fichier ou dossier de ce type
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ ^C
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ cd../home/julien
+bash: cd../home/julien: Aucun fichier ou dossier de ce type
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ cd ../home/julien
+bash: cd: ../home/julien: Aucun fichier ou dossier de ce type
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ cd
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ cd ~/Musique
+julien@julien-Lenovo-ideapad-530S-15IKB:~/Musique$ cd
+julien@julien-Lenovo-ideapad-530S-15IKB:~$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
